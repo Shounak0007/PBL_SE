@@ -48,7 +48,7 @@
 
 
 .background{
-    background:rgba(0, 0, 0, 0.7)url('img/1.png');
+    background:rgba(0, 0, 0, 0.7)url('1.png');
     background-size: cover;
     background-blend-mode: darken;
 }
